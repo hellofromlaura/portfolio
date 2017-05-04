@@ -1,4 +1,8 @@
 @media screen and (min-width: 700px) {
+  h2 {
+    font-size: 40px
+  }
+
   .logo {
     max-width: 1000px;
     margin: 0 auto;
@@ -33,9 +37,9 @@
   }
 
   .about {
-    background-image: url(../img/girl-dog-laptop.png);
+    background-image: url(../img/girl-dog-laptop-copy.png);
     background-repeat: no-repeat;
-    background-position: 95% 390px;
+    background-position: 95% 360px;
   }
 
   .portfolio p {
@@ -43,23 +47,30 @@
   }
 
   .portfolio h2 {
-    margin-top: 90px;
+    margin-top: 50px;
   }
 
   .q-less-web img {
     float: left;
-    margin-top: 70px;
     max-width: 40%;
     max-height: 40%;
   }
 
+  .q-less-web p {
+    margin-top: 20px;
+  }
 
   .q-less-app {
     margin-top: 90px;
   }
 
+  .q-less-app p {
+    margin-top: 70px;
+  }
+
   .q-less-app img {
     float: left;
+    margin: 0 8%;
     max-width: 40%;
     max-height: 40%;
   }
