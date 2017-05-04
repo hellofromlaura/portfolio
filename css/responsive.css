@@ -1,0 +1,40 @@
+@media screen and (min-width: 700px) {
+  .logo {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding-left: 5%;
+  }
+
+  .logo img {
+    max-width: 70%;
+    max-height: 70%;
+    padding: 0;
+  }
+
+  nav {
+    text-align: center;
+    position: fixed;
+    right: 120px;
+    top: 50px;
+    max-width: 940px;
+  }
+
+  nav li {
+    display: inline-block;
+  }
+
+  .body{
+    margin-top: 110px;
+    font-size: 20px;
+  }
+
+  .about p {
+    margin-right: 50%;
+  }
+
+  .about {
+    background-image: url(../img/girl-dog-laptop.png);
+    background-repeat: no-repeat;
+    background-position: 95% 390px;
+  }
+}
