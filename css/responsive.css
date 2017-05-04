@@ -37,4 +37,30 @@
     background-repeat: no-repeat;
     background-position: 95% 390px;
   }
+
+  .portfolio p {
+    margin-left: 50%;
+  }
+
+  .portfolio h2 {
+    margin-top: 90px;
+  }
+
+  .q-less-web img {
+    float: left;
+    margin-top: 70px;
+    max-width: 40%;
+    max-height: 40%;
+  }
+
+
+  .q-less-app {
+    margin-top: 90px;
+  }
+
+  .q-less-app img {
+    float: left;
+    max-width: 40%;
+    max-height: 40%;
+  }
 }
