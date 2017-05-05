@@ -72,10 +72,14 @@ nav a:hover {
 
 .body {
   max-width: 940px;
-  margin: 150px auto 80px auto;
+  margin: 150px auto 0 auto;
   padding: 5%;
   font-family: 'Abel', sans-serif;
   font-size: 18px;
+}
+
+.body a:hover {
+  color: #f8e048;
 }
 
 .jump:before {
@@ -97,6 +101,18 @@ nav a:hover {
   text-align: center;
 }
 
+.contact {
+  text-align: center;
+  margin-top: 90px;
+}
+
+.contact h2 {
+  margin-bottom: 10px;
+}
+
+.contact h3 {
+  margin-top: 0;
+}
 /**********************************
   FOOTER
 **********************************/
