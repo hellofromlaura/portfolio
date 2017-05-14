@@ -96,7 +96,8 @@ nav a:hover {
 }
 
 .q-less-app a,
-.q-less-web a {
+.q-less-web a,
+.aprenda a {
   display: block;
   text-align: center;
 }
