@@ -95,8 +95,11 @@ nav a:hover {
   display: block;
 }
 
-.q-less-app a,
-.q-less-web a,
+.portfolio-links li {
+  list-style: none;
+}
+
+.q-less a,
 .aprenda a {
   display: block;
   text-align: center;

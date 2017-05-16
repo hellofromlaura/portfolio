@@ -39,7 +39,7 @@
     BODY
   **********************************/
 
-  .body{
+  .body {
     margin-top: 100px;
     font-size: 20px;
   }
@@ -54,34 +54,24 @@
     background-position: 95% 360px;
   }
 
-  .portfolio p {
-    margin-left: 50%;
-  }
-
   .portfolio h2 {
     margin-top: 50px;
   }
 
-  .q-less-web img,
-  .aprenda img {
-    float: left;
-    max-width: 40%;
-    max-height: 40%;
+  .portfolio p,
+  .portfolio a {
+    margin-left: 50%;
   }
 
-  .q-less-web p {
-    margin-top: 20px;
-  }
-
-  .q-less-app {
+  .q-less {
     margin-top: 90px;
   }
 
-  .q-less-app p {
+  .q-less p {
     margin-top: 70px;
   }
 
-  .q-less-app img {
+  .q-less img {
     float: left;
     margin: 0 8%;
     max-width: 40%;
@@ -95,7 +85,12 @@
   .aprenda p {
     margin-top: 30px;
   }
-}
+
+  .aprenda img {
+    float: left;
+    max-width: 40%;
+    max-height: 40%;
+  }
 
 /**********************************
   FOOTER
