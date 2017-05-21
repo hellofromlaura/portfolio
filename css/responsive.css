@@ -54,12 +54,12 @@
     background-position: 95% 360px;
   }
 
-  .portfolio h2 {
+  .portfolio-items h2 {
     margin-top: 50px;
   }
 
-  .portfolio p,
-  .portfolio a {
+  .portfolio-items p,
+  .portfolio-items a {
     margin-left: 50%;
   }
 
