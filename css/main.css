@@ -109,6 +109,10 @@ nav a:hover {
   padding: 0 5%;
 }
 
+.portfolio-links ul {
+  padding-left: 0;
+}
+
 .portfolio-links li {
   list-style: none;
 }
@@ -152,7 +156,40 @@ footer {
 
 .social-icon a {
   display: inline-block;
-  width: 30px;
-  height: 30px;
+  width: 45px;
+  height: 45px;
   margin: 0 5px;
+}
+
+.twitter {
+   background-image: url('../img/Twitter.png');
+   background-repeat: no-repeat;
+   background-position: 0;
+   background-size: 45px
+}
+
+.twitter:hover {
+   background-image: url('../img/Twitter-yellow.png');
+}
+
+.linkedin {
+   background-image: url('../img/Linkedin.png');
+   background-repeat: no-repeat;
+   background-position: 0;
+   background-size: 45px
+}
+
+.linkedin:hover {
+   background-image: url('../img/Linkedin-yellow.png');
+}
+
+.github {
+   background-image: url('../img/Github.png');
+   background-repeat: no-repeat;
+   background-position: 0;
+   background-size: 45px
+}
+
+.github:hover {
+   background-image: url('../img/Github-yellow.png');
 }

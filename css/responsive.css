@@ -82,3 +82,21 @@
 /**********************************
   FOOTER
 **********************************/
+.social-icon a {
+  display: inline-block;
+  width: 45px;
+  height: 45px;
+  margin: 0 5px;
+}
+
+.twitter {
+   background-size: 55px
+}
+
+.linkedin {
+   background-size: 55px
+}
+
+.github {
+   background-size: 55px
+}
