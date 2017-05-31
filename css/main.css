@@ -117,8 +117,7 @@ nav a:hover {
   list-style: none;
 }
 
-.q-less a,
-.aprenda a {
+.main-links {
   display: block;
   text-align: center;
 }

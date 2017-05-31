@@ -54,18 +54,20 @@
   }
 
   .portfolio-items p,
-  .portfolio-items a {
+  .main-links {
     margin-left: 50%;
   }
 
 
   .q-less,
-  .aprenda {
+  .aprenda,
+  .let-it-mow {
     margin-top: 90px;
   }
 
   .q-less img,
-  .aprenda img {
+  .aprenda img,
+  .let-it-mow img {
     float: left;
     max-width: 40%;
     max-height: 40%;
